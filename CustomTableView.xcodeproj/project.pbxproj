@@ -15,6 +15,7 @@
 		25EBCC0526F44C8E00F9D31A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 25EBCC0326F44C8E00F9D31A /* LaunchScreen.storyboard */; };
 		25EBCC1026F44C8E00F9D31A /* CustomTableViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25EBCC0F26F44C8E00F9D31A /* CustomTableViewTests.swift */; };
 		25EBCC1B26F44C8E00F9D31A /* CustomTableViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25EBCC1A26F44C8E00F9D31A /* CustomTableViewUITests.swift */; };
+		25EBCC2926F44F1A00F9D31A /* TabTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25EBCC2826F44F1A00F9D31A /* TabTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		25EBCC1626F44C8E00F9D31A /* CustomTableViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CustomTableViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		25EBCC1A26F44C8E00F9D31A /* CustomTableViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewUITests.swift; sourceTree = "<group>"; };
 		25EBCC1C26F44C8E00F9D31A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		25EBCC2826F44F1A00F9D31A /* TabTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				25EBCC0126F44C8E00F9D31A /* Assets.xcassets */,
 				25EBCC0326F44C8E00F9D31A /* LaunchScreen.storyboard */,
 				25EBCC0626F44C8E00F9D31A /* Info.plist */,
+				25EBCC2826F44F1A00F9D31A /* TabTableViewCell.swift */,
 			);
 			path = CustomTableView;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				25EBCBFD26F44C8B00F9D31A /* ViewController.swift in Sources */,
 				25EBCBF926F44C8B00F9D31A /* AppDelegate.swift in Sources */,
 				25EBCBFB26F44C8B00F9D31A /* SceneDelegate.swift in Sources */,
+				25EBCC2926F44F1A00F9D31A /* TabTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
